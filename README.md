@@ -38,9 +38,9 @@ Log in, go through setup, then go to dashboard
 
 
 TEMPLATES I USED:
-![image](https://github.com/Unevenr/Unevenr-Docker-Installation-Guide.github.io/assets/112726183/8ef9a80f-84c4-41b0-9d14-0fa45434458f)
+ ![image](https://github.com/Unevenr/Unevenr-Docker-Installation-Guide.github.io/assets/112726183/8ef9a80f-84c4-41b0-9d14-0fa45434458f)
 
-![image](https://github.com/Unevenr/Unevenr-Docker-Installation-Guide.github.io/assets/112726183/cf9cd769-7784-4377-a171-7944710b5c4e)
+ ![image](https://github.com/Unevenr/Unevenr-Docker-Installation-Guide.github.io/assets/112726183/cf9cd769-7784-4377-a171-7944710b5c4e)
 
  
 
