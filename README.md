@@ -36,8 +36,16 @@ http://localhost:8000/
 
 Log in, go through setup, then go to dashboard
 
+
+TEMPLATES I USED:
+![image](https://github.com/Unevenr/Unevenr-Docker-Installation-Guide.github.io/assets/112726183/8ef9a80f-84c4-41b0-9d14-0fa45434458f)
+
+![image](https://github.com/Unevenr/Unevenr-Docker-Installation-Guide.github.io/assets/112726183/cf9cd769-7784-4377-a171-7944710b5c4e)
+
  
 
 PROOF OF FINISHED PROJECT SCREENSHOTS BELOW:
- 
- 
+ ![image](https://github.com/Unevenr/Unevenr-Docker-Installation-Guide.github.io/assets/112726183/a1e8713f-af94-4cb1-bc58-4175fb1a6b91)
+
+ ![image](https://github.com/Unevenr/Unevenr-Docker-Installation-Guide.github.io/assets/112726183/4b5efd86-adeb-4dc9-b805-e8d7041efeb4)
+
