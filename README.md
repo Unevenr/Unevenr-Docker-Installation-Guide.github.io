@@ -1,10 +1,10 @@
+GUIDE I FOLLOWED: https://www.hostinger.com/tutorials/run-docker-wordpress
+
 I downloaded ubuntu iso on VMWare
 
 I went through installation process
 
 Writing changes to disks
-
-https://www.hostinger.com/tutorials/run-docker-wordpress
 
 Sudo apt update
 
